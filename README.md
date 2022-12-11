@@ -1,3 +1,3 @@
 # ip-config
 
-a simple extention to check ip details for firefox
+a simple firefox extention to check ip details
