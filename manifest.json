@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "ip-config",
+    "version": "1.0",
+  
+    "description": "a browser extention to get ip address details",
+    "homepage_url": "https://github.com/calcitgraphy",
+    "icons": {
+      "48": "img/android-chrome-192x192.png"
+    },
+  
+    "permissions": [
+      "activeTab"
+    ],
+  
+    "browser_action": {
+      "default_icon": "img/favicon-32x32.png",
+      "default_title": "ip-config",
+      "default_popup": "index.html"
+    }
+  }
+  
